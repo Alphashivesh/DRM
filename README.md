@@ -6,7 +6,7 @@ DRM website
 
 A robust Digital Rights Management system built with React and TypeScript for secure content distribution and license management.
 
-![DRM System Dashboard](https://i.ibb.co/0tXQVKF/drm-dashboard.png)
+![DRM System Dashboard](project/images/dashboard.png)
 
 ## Features
 
