@@ -174,3 +174,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Shivesh Kumar - [Send me an email](mailto:shiveshkumar73520gmail.com)
 
 Project Link: ![GitHub Homepage](https://github.com/Alphashivesh/DRM)
+
+## Snapshorts
+
+1. **Formal Verification**
+
+![verify](project/images/formal_verification.png)
+
+![verify2](project/images/formal_verification1.png)
+
+2. **System status**
+
+![setting](project/images/system_status.png)
+
+3. **Testing**
+
+![test](project/images/testing.png)
+
+![test1](project/images/testing2.png)
