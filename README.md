@@ -159,7 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- Shivesh Kumar - *Initial work* - [YourGithub](https://github.com/Alphashivesh)
+- Shivesh Kumar - *Initial work* - [Github](https://github.com/Alphashivesh)
 
 ## Acknowledgments
 
@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Shivesh Kumar -shiveshkumar73520@gmail.com
 
-Project Link: [https://github.com/yourusername/drm-system](https://github.com/yourusername/drm-system)
+Project Link: [https://github.com/yourusername/drm-system](https://github.com/Alphashivesh/DRM)
