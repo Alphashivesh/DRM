@@ -8,6 +8,8 @@ A robust Digital Rights Management system built with React and TypeScript for se
 
 ![DRM System Dashboard](project/images/dashboard.png)
 
+![Updated Dashboard](project/images/updated_dashboard.png)
+
 ## Features
 
 - **License Management**
