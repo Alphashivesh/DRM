@@ -71,7 +71,7 @@ const mockLicenses: License[] = [
 // Sample user for demonstration
 const mockUser: User = {
   id: '1',
-  name: 'Shivesh kr',
+  name: 'Shivesh kumar',
   email: 'user1@example.com',
   role: 'subscriber',
 };
