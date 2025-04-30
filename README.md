@@ -1,4 +1,4 @@
-[Live Code: 💸](https://drm-wk6a.vercel.app/)
+[Live run: 💸](https://drm-wk6a.vercel.app/)
 
 DRM website
 
@@ -173,4 +173,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Shivesh Kumar -shiveshkumar73520@gmail.com
 
-Project Link: [https://github.com/yourusername/drm-system](https://github.com/Alphashivesh/DRM)
+Project Link: ![GitHub Interface](https://github.com/Alphashivesh/DRM)
