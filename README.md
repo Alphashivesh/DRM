@@ -171,6 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Shivesh Kumar -shiveshkumar73520@gmail.com
+Shivesh Kumar - [Send me an email](mailto:shiveshkumar73520gmail.com)
 
-Project Link: ![GitHub Interface](https://github.com/Alphashivesh/DRM)
+Project Link: ![GitHub Homepage](https://github.com/Alphashivesh/DRM)
